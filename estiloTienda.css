@@ -1,0 +1,61 @@
+img{
+	width: 150px;
+	height:100px;
+}
+
+.logos{
+	width: 50px;
+	height:50px;
+}
+
+#pie{
+	text-align: center;
+	font-size: 18;
+	color : white;
+}
+
+
+
+table{
+	align-content: center;
+	width: 100%;
+	background-color: #CDE7EB;
+}
+
+th{
+	height: 80%;
+	text-align: center;
+}
+td{
+	text-align: center;
+	font-size: 25;
+	color: navy blue;
+}
+
+
+h1{
+	color: blue;
+}
+
+nav{
+align-content: center;
+width: 100%;
+background-color: #B4A2C2;
+}
+
+a{
+text-align: center;
+font-size: 18;
+color: navy blue;
+}
+
+footer{
+	background-color: #B4A2C2;
+	height: 50%;
+}
+
+
+
+
+
+
